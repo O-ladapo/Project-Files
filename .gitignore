@@ -1,5 +1,6 @@
 .env
 /certs/*.key
+/certs/*.crt
 /certs/*.pem
 __pycache__/
 .vscode/
